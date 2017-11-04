@@ -1,0 +1,5 @@
+Flask==0.11.1
+Flask-Cors==2.1.2
+geocoder==1.22.4
+geojsonio==0.0.3
+geopandas==0.2.1
